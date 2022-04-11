@@ -17,6 +17,6 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>COMP 377 | Group 6 <a style='display: block; text-align: center;' href="https://github.com/supremvanam/FBProphet-StockPrediction" target="_blank">Github</a></p>
+<p>AI - COMP 377 | Group 6 <a style='display: block; text-align: center;' href="https://github.com/supremvanam/FBProphet-StockPrediction" target="_blank">Github</a></p>
 </div>
 """
