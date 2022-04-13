@@ -1,8 +1,4 @@
-numpy
-pandas
-yfinance
-matplotlib
-pandas_datareader
-keras
-scikit-learn
 streamlit
+prophet
+yfinance
+plotly
