@@ -1,5 +1,6 @@
 numpy
 pandas
+yfinance
 matplotlib
 pandas_datareader
 keras
